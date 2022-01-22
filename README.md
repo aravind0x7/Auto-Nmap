@@ -1,2 +1,2 @@
 # Auto-Nmap
-Nmap Scan Automation
+Nmap Scan Automation Tool
